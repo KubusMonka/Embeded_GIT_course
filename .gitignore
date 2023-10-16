@@ -1,0 +1,15 @@
+/Debug/
+
+
+/Debug/
+
+.cproject*
+.project*
+
+*.log
+
+*.xml
+
+_htmresc
+*.html
+*.chm
