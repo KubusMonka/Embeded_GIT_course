@@ -1,13 +1,15 @@
-/Debug/
+# ignore files:
 
-
+Debug/
 /Debug/
 
 .cproject*
 .project*
+.mxproject
 
 *.log
 
+# *.ioc
 *.xml
 
 _htmresc
